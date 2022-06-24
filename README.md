@@ -1,2 +1,2 @@
 # aloha
-aloha!:アロハ！
+# aloha!:アロハ！
